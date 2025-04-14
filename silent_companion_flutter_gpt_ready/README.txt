@@ -1,0 +1,1 @@
+Проєкт Silent Companion — версія з GPT API готова до збірки APK.
